@@ -1,7 +1,7 @@
 # BOOT CAMP PROJECT
 Java RESTful API
 
-#Diagrama de Classes
+# Diagrama de Classes
 ```mermaid
 classDiagram
     class User {
